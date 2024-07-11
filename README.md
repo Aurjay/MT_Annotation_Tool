@@ -3,7 +3,7 @@
 This is an script for the annotation tool implementation developed for polygonal binary annotation using Segment Anything Model (SAM) as a part of the Master thesis 'Comparison of Different Anomaly-Detection-Algorithms and Neural Network Driven Background-Subtraction Models to Detect Unexpected Objects in Video Streams'
 ## Dependencies
 
-Install all the packages in requirements.txt file. The code was executed in a Python 3.10.11 envirionment. The code was run with a Tesla T4 GPU. To use a similar GPU, please ensure you have the appropriate CUDA and cuDNN packages installed..
+Install all the packages in requirements.txt file. The code was executed in a Python 3.10.11 envirionment. The code was run with a Tesla T4 GPU. To use a similar GPU, please ensure you have the appropriate CUDA and cuDNN packages installed.
 
 ## Setup
 ```bash
